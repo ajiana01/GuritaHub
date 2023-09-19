@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#000</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/guritahub</item>
+        <item name="postSplashScreenTheme">@style/Theme.SubmissionFundamentalAwal</item>
+        <item name="windowSplashScreenAnimationDuration">3000</item>
+    </style>
+</resources>
